@@ -1,0 +1,37 @@
+@import url('https://fonts.google.com/earlyaccess');
+
+
+.searchForm{
+    display: table;
+    position: absolute;
+    left: 25%;
+    top: 200px;
+    width : 200px;
+    height: 18px;
+
+}
+
+.icon{
+
+    width: 15px;
+    height: 15px;
+}
+
+button {
+    position: absolute;
+    width: 30px;
+    height: 22px;
+    margin-top: 2px;
+}
+
+body{
+    background-color: #F8F8F8;
+}
+
+h1{
+    padding-top: 10%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+    Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 70px;
+    text-align: center;
+}
