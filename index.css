@@ -3,7 +3,6 @@
 
 .searchForm{
     display: table;
-    position: absolute;
     align-items: center;
     top: 200px;
     width : 300px;
