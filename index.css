@@ -4,7 +4,7 @@
 .searchForm{
     display: table;
     position: absolute;
-    left: 30%;
+    align-items: center;
     top: 200px;
     width : 200px;
     height: 18px;
