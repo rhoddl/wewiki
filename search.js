@@ -3,7 +3,7 @@ const searchbox = document.querySelector('.searchBox');
 
 searchform.innerHTML
 
-X= [];
+//X= [];
 
 function toWiki(){
     const inputValue = searchbox.value;
