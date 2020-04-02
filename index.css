@@ -4,26 +4,14 @@
 .searchForm{
     display: table;
     position: absolute;
-    left: 25%;
+    left: 30%;
     top: 200px;
     width : 200px;
     height: 18px;
 
 }
 
-.icon{
 
-    width: 15px;
-    height: 15px;
-}
-
-button {
-    position: absolute;
-    width: 30px;
-    height: 22px;
-    margin-top: 2px;
-    display: block;
-}
 
 body{
     background-color: #F8F8F8;
